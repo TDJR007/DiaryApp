@@ -1,3 +1,4 @@
+
 # 📓 Diary App (.NET Core MVC)
 
 A simple diary CRUD app built with ASP.NET Core MVC and Entity Framework Core. Create, read, update, and delete personal diary entries with a web interface.
@@ -52,6 +53,21 @@ Open `appsettings.json` and update the `DefaultConnection`:
 > Or `Server=localhost\SQLEXPRESS` for SQL Express
 
 You can get the hostname by running `hostname` in command prompt.
+
+---
+
+## 🎯 Opening the Project in Visual Studio
+
+1. **Open Visual Studio**
+
+   Launch Visual Studio 2022 or later.
+
+2. **Open the Solution File**
+
+   Click on `File → Open → Project/Solution`  
+   Navigate to the folder where you cloned the repo, and open the `Diary.sln` file.
+
+   > 🧠 The `.sln` (solution) file links all your project files, so always open this.
 
 ---
 
